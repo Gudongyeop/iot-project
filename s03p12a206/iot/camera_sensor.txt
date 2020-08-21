@@ -1,0 +1,18 @@
+﻿*cctv 영상
+- https://www.youtube.com/watch?v=DIGwweDJCBk
+
+*스트리밍
+- http://www.3demp.com/community/boardDetails.php?cbID=234
+
+*mjpg-streamer
+- https://webnautes.tistory.com/1261
+
+*P5V04A
+- https://docs.rs-online.com/2888/0900766b8127db0a.pdf
+- https://elinux.org/Rpi_Camera_Module
+
+*열 화상 카메라
+- https://www.youtube.com/watch?v=rqdTx0AKroE
+
+*카메라 모듈 사용하는 방법
+- https://webnautes.tistory.com/929
